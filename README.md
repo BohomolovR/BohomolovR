@@ -118,9 +118,9 @@ My main focus is DevOps and Python development, while continuously improving my 
 
 **Sep 2024 – Feb 2026** 
 
-- Accelerated frontend deployment cycles by 30% by replacing manual uploads with automated CI/CD pipelines using Jenkins and GitHub Actions. [file:11]
-- Improved local development setup time by 40% by writing cross-platform PowerShell and Bash scripts for environment configuration in a custom WordPress engine. [file:11]
-- Enhanced website stability and achieved 99.9% uptime by containerizing the in-house CMS with Docker and implementing basic health monitoring with Grafana. [file:11]
+- Accelerated frontend deployment cycles by 30% by replacing manual uploads with automated CI/CD pipelines using Jenkins and GitHub Actions. 
+- Improved local development setup time by 40% by writing cross-platform PowerShell and Bash scripts for environment configuration in a custom WordPress engine. 
+- Enhanced website stability and achieved 99.9% uptime by containerizing the in-house CMS with Docker and implementing basic health monitoring with Grafana. 
 
 ---
 
@@ -130,8 +130,8 @@ My main focus is DevOps and Python development, while continuously improving my 
 
 **University / Personal Project** • **Oct 2024 – Present** [
 
-- Provisioned scalable test environments with 100% configuration consistency by replacing manual VirtualBox setups with KVM and automating infrastructure using Terraform and Ansible. [file:11]
-- Achieved zero-downtime application rollouts in local test environments by orchestrating containerized Python backend services with Kubernetes. [file:11]
+- Provisioned scalable test environments with 100% configuration consistency by replacing manual VirtualBox setups with KVM and automating infrastructure using Terraform and Ansible. 
+- Achieved zero-downtime application rollouts in local test environments by orchestrating containerized Python backend services with Kubernetes. 
 
 ---
 
